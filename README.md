@@ -3,8 +3,7 @@
 
 ## Overview
 
-![alt text](/files/wiggle_suggestions.png)
-
+![home_page](files/wiigle_suggestions.png)
 ### Trie Implementation
 I implementing my trie using trienode, each of which contains its own list of children. Each trie node is assigned its letter value and whether it is the end of a word.
 
